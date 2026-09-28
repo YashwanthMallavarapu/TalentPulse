@@ -1,0 +1,6 @@
+{
+  "name": "TalentPulse: Borderline Boost Micro-Challenge Engine",
+  "description": "An intelligent recruitment and candidate evaluation platform featuring automated resume scanning, applicant suitability scoring, and dynamic skill verification challenges for borderline candidates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
